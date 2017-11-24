@@ -14,4 +14,4 @@ To install pyzipcode:
     
 To install geopy:
 
-  pip install geopy
+    pip install geopy
